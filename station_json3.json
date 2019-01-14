@@ -1,0 +1,5675 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "STAT_NAME" : "STAT_NAME",
+    "THOMPAGE" : "THOMPAGE",
+    "STAT_TYPE" : "STAT_TYPE",
+    "SEED" : "SEED",
+    "DIST_NAME" : "DIST_NAME",
+    "JURIS" : "JURIS",
+    "DISPATCH" : "DISPATCH",
+    "MISS_EMR" : "MISS_EMR",
+    "PHONE_NUM" : "PHONE_NUM",
+    "STA_NUM" : "STA_NUM"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "STAT_NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "STAT_NAME",
+      "length" : 60
+    },
+    {
+      "name" : "THOMPAGE",
+      "type" : "esriFieldTypeString",
+      "alias" : "THOMPAGE",
+      "length" : 7
+    },
+    {
+      "name" : "STAT_TYPE",
+      "type" : "esriFieldTypeString",
+      "alias" : "STAT_TYPE",
+      "length" : 12
+    },
+    {
+      "name" : "SEED",
+      "type" : "esriFieldTypeString",
+      "alias" : "SEED",
+      "length" : 1
+    },
+    {
+      "name" : "DIST_NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "DIST_NAME",
+      "length" : 60
+    },
+    {
+      "name" : "JURIS",
+      "type" : "esriFieldTypeString",
+      "alias" : "JURIS",
+      "length" : 2
+    },
+    {
+      "name" : "DISPATCH",
+      "type" : "esriFieldTypeString",
+      "alias" : "DISPATCH",
+      "length" : 5
+    },
+    {
+      "name" : "MISS_EMR",
+      "type" : "esriFieldTypeString",
+      "alias" : "MISS_EMR",
+      "length" : 5
+    },
+    {
+      "name" : "PHONE_NUM",
+      "type" : "esriFieldTypeString",
+      "alias" : "PHONE_NUM",
+      "length" : 20
+    },
+    {
+      "name" : "STA_NUM",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "STA_NUM"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "STAT_NAME" : "Carlsbad Fire Station 1",
+        "THOMPAGE" : "1106-F5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2187",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.33830796499996,
+        "y" : 33.165746475000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "STAT_NAME" : "Carlsbad Fire Station 3",
+        "THOMPAGE" : "1106-H5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2189",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.31958517899994,
+        "y" : 33.164624846000038
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "STAT_NAME" : "Carlsbad Fire Station 4",
+        "THOMPAGE" : "1127-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2190",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.30534471699997,
+        "y" : 33.105507261000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "STAT_NAME" : "Carlsbad Fire Station 6",
+        "THOMPAGE" : "1147-J2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2171",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.22584751299996,
+        "y" : 33.09433851600005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "STAT_NAME" : "Del Mar Fire Station",
+        "THOMPAGE" : "1187-G3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Del Mar Fire Department",
+        "JURIS" : "DM",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 755-1522",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.26165292599995,
+        "y" : 32.971946266000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "STAT_NAME" : "Encinitas Fire Station 1",
+        "THOMPAGE" : "1147-B7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.29181474999996,
+        "y" : 33.045647711000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "STAT_NAME" : "Encinitas Fire Station 2",
+        "THOMPAGE" : "1167-E2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.27644602899994,
+        "y" : 33.026708216000031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "STAT_NAME" : "Encinitas Fire Station 3",
+        "THOMPAGE" : "1147-C4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.29364099899999,
+        "y" : 33.06302271900006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "STAT_NAME" : "Encinitas Fire Station 4",
+        "THOMPAGE" : "1147-H6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.24526190399996,
+        "y" : 33.053963063000026
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "STAT_NAME" : "Solana Beach Fire Station 1",
+        "THOMPAGE" : "1167-F6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Solana Beach Fire Department",
+        "JURIS" : "SO",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 720-2405",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.26683241299997,
+        "y" : 32.995385205000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "STAT_NAME" : "Escondido Fire Station 1",
+        "THOMPAGE" : "1129-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4976",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.08960782199995,
+        "y" : 33.121156614000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "STAT_NAME" : "Escondido Fire Station 2",
+        "THOMPAGE" : "1110-C7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4705",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.05247190099999,
+        "y" : 33.13804699700006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "STAT_NAME" : "Escondido Fire Station 7",
+        "THOMPAGE" : " ",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4780",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -117.07564719299995,
+        "y" : 33.143240414000047
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "STAT_NAME" : "Escondido Fire Station 4",
+        "THOMPAGE" : "1150-C2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4787",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.05769677899997,
+        "y" : 33.077504746000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "STAT_NAME" : "Escondido Fire Station 5",
+        "THOMPAGE" : "1129-J7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4708",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.08528776399999,
+        "y" : 33.090857983000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "STAT_NAME" : "SD FS 33",
+        "THOMPAGE" : "1170-A2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8133",
+        "STA_NUM" : 33
+      },
+      "geometry" : {
+        "x" : -117.07483654799995,
+        "y" : 33.021979453000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "STAT_NAME" : "SD FS 42",
+        "THOMPAGE" : "1190-A1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8142",
+        "STA_NUM" : 42
+      },
+      "geometry" : {
+        "x" : -117.07334424599998,
+        "y" : 32.983030685000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "STAT_NAME" : "SD FS 40",
+        "THOMPAGE" : "1189-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8140",
+        "STA_NUM" : 40
+      },
+      "geometry" : {
+        "x" : -117.12233366199996,
+        "y" : 32.959653596000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "STAT_NAME" : "Poway Fire Station 51",
+        "THOMPAGE" : "1190-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Poway Fire Department",
+        "JURIS" : "PW",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 748-6163",
+        "STA_NUM" : 51
+      },
+      "geometry" : {
+        "x" : -117.04101743599995,
+        "y" : 32.954276058000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "STAT_NAME" : "Poway Fire Station 52",
+        "THOMPAGE" : "1170-F3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Poway Fire Department",
+        "JURIS" : "PW",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 487-6363",
+        "STA_NUM" : 52
+      },
+      "geometry" : {
+        "x" : -117.03096967499999,
+        "y" : 33.019354662000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "STAT_NAME" : "SD Future FS 47 Old Location",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 47
+      },
+      "geometry" : {
+        "x" : -117.17864609299994,
+        "y" : 32.96814573000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "STAT_NAME" : "SD FS 24",
+        "THOMPAGE" : "1185-A5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 552-1773",
+        "STA_NUM" : 24
+      },
+      "geometry" : {
+        "x" : -117.22945179999999,
+        "y" : 32.956061910000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "STAT_NAME" : "SD FS 37",
+        "THOMPAGE" : "1210-A2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8137",
+        "STA_NUM" : 37
+      },
+      "geometry" : {
+        "x" : -117.07764492999996,
+        "y" : 32.923917479000067
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "STAT_NAME" : "Old SD FS 37",
+        "THOMPAGE" : "1209-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8137",
+        "STA_NUM" : 37
+      },
+      "geometry" : {
+        "x" : -117.09822508899998,
+        "y" : 32.911435383000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "STAT_NAME" : "SD FS 38",
+        "THOMPAGE" : "1209-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 538-8138",
+        "STA_NUM" : 38
+      },
+      "geometry" : {
+        "x" : -117.14214132299998,
+        "y" : 32.915476571000056
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "STAT_NAME" : "SD FS 44",
+        "THOMPAGE" : "1209-E5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 636-4885",
+        "STA_NUM" : 44
+      },
+      "geometry" : {
+        "x" : -117.12346052999999,
+        "y" : 32.901503729000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "STAT_NAME" : "SD FS 41",
+        "THOMPAGE" : "1208-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 573-1775",
+        "STA_NUM" : 41
+      },
+      "geometry" : {
+        "x" : -117.20062737199999,
+        "y" : 32.890200017000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "STAT_NAME" : "Chula Vista Planned FS Bay Front",
+        "THOMPAGE" : "1310-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 691-5055",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.09479814099996,
+        "y" : 32.621596292000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "STAT_NAME" : "Chula Vista Future FS 5",
+        "THOMPAGE" : "1330-C3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-1103",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.06872970699999,
+        "y" : 32.601935017000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "STAT_NAME" : "SD Future Research Park FS",
+        "THOMPAGE" : " ",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 39
+      },
+      "geometry" : {
+        "x" : -117.11558582199996,
+        "y" : 32.833018318000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "STAT_NAME" : "Carlsbad Fire Station 2",
+        "THOMPAGE" : "1127-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2188",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.26740965999994,
+        "y" : 33.095193403000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "STAT_NAME" : "SD Future FS 48 Old Location",
+        "THOMPAGE" : "1169-B3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 48
+      },
+      "geometry" : {
+        "x" : -117.14258233499999,
+        "y" : 33.021788160000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "STAT_NAME" : "Oceanside Fire Station 8",
+        "THOMPAGE" : "1087-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4274",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -117.26388044399999,
+        "y" : 33.218919432000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 34,
+        "STAT_NAME" : "CDF San Marcos",
+        "THOMPAGE" : "1108-H7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760)749-0402",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.16513907799998,
+        "y" : 33.142288850000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "STAT_NAME" : "SD Future East Otay Mesa FS",
+        "THOMPAGE" : "1351",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.98036810299999,
+        "y" : 32.55988145200007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 36,
+        "STAT_NAME" : "SD FS 35",
+        "THOMPAGE" : "1228-D2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 552-1777",
+        "STA_NUM" : 35
+      },
+      "geometry" : {
+        "x" : -117.21519439599996,
+        "y" : 32.87701063600008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 37,
+        "STAT_NAME" : "SD FS 25",
+        "THOMPAGE" : "1268-E1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 581-9941",
+        "STA_NUM" : 25
+      },
+      "geometry" : {
+        "x" : -117.20632306799996,
+        "y" : 32.781888799000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 38,
+        "STAT_NAME" : "SD FS 23",
+        "THOMPAGE" : "1248-J7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 573-1375",
+        "STA_NUM" : 23
+      },
+      "geometry" : {
+        "x" : -117.17154326599996,
+        "y" : 32.783003305000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 39,
+        "STAT_NAME" : "SD FS 31",
+        "THOMPAGE" : "1250-C6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 531-1594",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -117.06662350499994,
+        "y" : 32.792815487000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 40,
+        "STAT_NAME" : "SD FS 34",
+        "THOMPAGE" : "1250-H4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 527-3426",
+        "STA_NUM" : 34
+      },
+      "geometry" : {
+        "x" : -117.02514300899998,
+        "y" : 32.80254369000005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "STAT_NAME" : "SD FS 4",
+        "THOMPAGE" : "1289-A4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 531-1574",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.15759436799999,
+        "y" : 32.709565550000036
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "STAT_NAME" : "SD FS 1/201",
+        "THOMPAGE" : "1290-A3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 236-6823",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.16450642599995,
+        "y" : 32.718056428000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "STAT_NAME" : "SD FS 1 (Hypothetical)",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.16203894199998,
+        "y" : 32.718845943000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "STAT_NAME" : "SD FS 3",
+        "THOMPAGE" : "1269-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1568",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.16920716099997,
+        "y" : 32.729582351000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "STAT_NAME" : "SD FS 7",
+        "THOMPAGE" : "1289-D5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1575",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -117.14505422999997,
+        "y" : 32.700916111000026
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "STAT_NAME" : "SD FS 8",
+        "THOMPAGE" : "1268-J5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 692-4908",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -117.17162105899996,
+        "y" : 32.749489788000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 47,
+        "STAT_NAME" : "SD FS 5",
+        "THOMPAGE" : "1269-B5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 692-4905",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.15655994799999,
+        "y" : 32.748622177000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "STAT_NAME" : "SD Temp FS 17",
+        "THOMPAGE" : "1269-G5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1588",
+        "STA_NUM" : 17
+      },
+      "geometry" : {
+        "x" : -117.10669456899996,
+        "y" : 32.749858163000056
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "STAT_NAME" : "SD FS 15",
+        "THOMPAGE" : "1268-A4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1561",
+        "STA_NUM" : 15
+      },
+      "geometry" : {
+        "x" : -117.24175281999999,
+        "y" : 32.748801542000024
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "STAT_NAME" : "SD FS 22",
+        "THOMPAGE" : "1288-A2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1552",
+        "STA_NUM" : 22
+      },
+      "geometry" : {
+        "x" : -117.24449505199999,
+        "y" : 32.72554812900006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "STAT_NAME" : "SD FS 20",
+        "THOMPAGE" : "1268-C5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1558",
+        "STA_NUM" : 20
+      },
+      "geometry" : {
+        "x" : -117.21463570699996,
+        "y" : 32.752542773000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "STAT_NAME" : "SD FS 18",
+        "THOMPAGE" : "1269-E5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1585",
+        "STA_NUM" : 18
+      },
+      "geometry" : {
+        "x" : -117.12202605699997,
+        "y" : 32.762769598000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "STAT_NAME" : "SD Future Otay Mesa FS 49",
+        "THOMPAGE" : "1350-H2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.01868012099999,
+        "y" : 32.572645945000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "STAT_NAME" : "MCRD SAN DIEGO 614",
+        "THOMPAGE" : "1268-F7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCRD SAN DIEGO",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 614
+      },
+      "geometry" : {
+        "x" : -117.19152742399996,
+        "y" : 32.742840086000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 55,
+        "STAT_NAME" : "SD FS 26",
+        "THOMPAGE" : "1270-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 527-3438",
+        "STA_NUM" : 26
+      },
+      "geometry" : {
+        "x" : -117.08002979699995,
+        "y" : 32.735387536000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "STAT_NAME" : "SD FS 19",
+        "THOMPAGE" : "1289-G5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1581",
+        "STA_NUM" : 19
+      },
+      "geometry" : {
+        "x" : -117.11976759699996,
+        "y" : 32.701542028000063
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "STAT_NAME" : "SD FS 12",
+        "THOMPAGE" : "1290-B4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 527-3452",
+        "STA_NUM" : 12
+      },
+      "geometry" : {
+        "x" : -117.08784909599996,
+        "y" : 32.704386132000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "STAT_NAME" : "SD FS 11",
+        "THOMPAGE" : "1289-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1577",
+        "STA_NUM" : 11
+      },
+      "geometry" : {
+        "x" : -117.14003341799997,
+        "y" : 32.715515921000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "STAT_NAME" : "SD FS 10",
+        "THOMPAGE" : "1270-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1589",
+        "STA_NUM" : 10
+      },
+      "geometry" : {
+        "x" : -117.06375561299996,
+        "y" : 32.760870755000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "STAT_NAME" : "SD FS 32",
+        "THOMPAGE" : "1290-G6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 527-3447",
+        "STA_NUM" : 32
+      },
+      "geometry" : {
+        "x" : -117.03707153699997,
+        "y" : 32.692107461000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "STAT_NAME" : "SD Future West Mission Valley FS",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.19546157199994,
+        "y" : 32.76358726400008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "STAT_NAME" : "SD FS 45",
+        "THOMPAGE" : "1249-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 573-5015",
+        "STA_NUM" : 45
+      },
+      "geometry" : {
+        "x" : -117.12415769699999,
+        "y" : 32.786433483000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "STAT_NAME" : "SD Future North Park FS 55",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 55
+      },
+      "geometry" : {
+        "x" : -117.12178412099996,
+        "y" : 32.729532923000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 64,
+        "STAT_NAME" : "SD Future Paradise Hills FS 54",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 54
+      },
+      "geometry" : {
+        "x" : -117.05541216399996,
+        "y" : 32.68070738800003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "STAT_NAME" : "SD FS 6",
+        "THOMPAGE" : "1330-F7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 424-0480",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.04518166399998,
+        "y" : 32.583938003000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "STAT_NAME" : "Chula Vista Fire Station 1",
+        "THOMPAGE" : "1310-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 691-5055",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.08581335299999,
+        "y" : 32.639949307000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "STAT_NAME" : "Chula Vista Fire Station 5",
+        "THOMPAGE" : "1330-C3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-1103",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.07134916299998,
+        "y" : 32.609019536000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "STAT_NAME" : "Coronado Fire Station 37",
+        "THOMPAGE" : "1329-E2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Coronado Fire Department",
+        "JURIS" : "CO",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 522-7379",
+        "STA_NUM" : 37
+      },
+      "geometry" : {
+        "x" : -117.13422393999997,
+        "y" : 32.622614479000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "STAT_NAME" : "Coronado Fire Station 36",
+        "THOMPAGE" : "1288-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Coronado Fire Department",
+        "JURIS" : "CO",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 522-7374",
+        "STA_NUM" : 36
+      },
+      "geometry" : {
+        "x" : -117.17715695099997,
+        "y" : 32.691882959000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 70,
+        "STAT_NAME" : "La Mesa Fire Station 13",
+        "THOMPAGE" : "1271-B1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "La Mesa Fire Department",
+        "JURIS" : "LM",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 667-1303",
+        "STA_NUM" : 13
+      },
+      "geometry" : {
+        "x" : -117.00135148899994,
+        "y" : 32.773562624000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "STAT_NAME" : "La Mesa Fire Station 12",
+        "THOMPAGE" : "1251-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "La Mesa Fire Department",
+        "JURIS" : "LM",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 667-1302",
+        "STA_NUM" : 12
+      },
+      "geometry" : {
+        "x" : -117.00545095099994,
+        "y" : 32.791582689000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 72,
+        "STAT_NAME" : "El Cajon Fire Station 7",
+        "THOMPAGE" : "1251-C4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "El Cajon Fire Department",
+        "JURIS" : "EC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 441-1729",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -116.99246523499994,
+        "y" : 32.803282302000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 73,
+        "STAT_NAME" : "SD FS 30",
+        "THOMPAGE" : "1350-B1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 424-0493",
+        "STA_NUM" : 30
+      },
+      "geometry" : {
+        "x" : -117.08492798499998,
+        "y" : 32.57625119100004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "STAT_NAME" : "Lemon Grove Fire Station 10",
+        "THOMPAGE" : "1270-H6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Lemon Grove Fire Department",
+        "JURIS" : "LG",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 341-4610",
+        "STA_NUM" : 10
+      },
+      "geometry" : {
+        "x" : -117.02979426199994,
+        "y" : 32.738884557000063
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "STAT_NAME" : "La Mesa Fire Station 11",
+        "THOMPAGE" : "1270-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "La Mesa Fire Department",
+        "JURIS" : "LM",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 667-1301",
+        "STA_NUM" : 11
+      },
+      "geometry" : {
+        "x" : -117.02438290799995,
+        "y" : 32.766244767000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "STAT_NAME" : "El Cajon Fire Station 6",
+        "THOMPAGE" : "1251-F6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "El Cajon Fire Department",
+        "JURIS" : "EC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 441-1603",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -116.96175789899996,
+        "y" : 32.792973242000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "STAT_NAME" : "SD FS 29",
+        "THOMPAGE" : "1350-F4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 424-0483",
+        "STA_NUM" : 29
+      },
+      "geometry" : {
+        "x" : -117.04743052099997,
+        "y" : 32.553322351000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "STAT_NAME" : "National City Fire Station 34",
+        "THOMPAGE" : "1309-J2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "National City Fire Department",
+        "JURIS" : "NC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 336-4566",
+        "STA_NUM" : 34
+      },
+      "geometry" : {
+        "x" : -117.10011505499995,
+        "y" : 32.67008191900004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "STAT_NAME" : "Imperial Beach Fire Station",
+        "THOMPAGE" : "1349-G1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Imperial Beach Fire Department",
+        "JURIS" : "IB",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 423-8223",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.11431861099999,
+        "y" : 32.576567359000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "STAT_NAME" : "SD FS 43",
+        "THOMPAGE" : "1351-G2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 424-0225",
+        "STA_NUM" : 43
+      },
+      "geometry" : {
+        "x" : -116.96290686699996,
+        "y" : 32.568828488000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "STAT_NAME" : "SD FS 9",
+        "THOMPAGE" : "1227-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 552-1762",
+        "STA_NUM" : 9
+      },
+      "geometry" : {
+        "x" : -117.25070790499996,
+        "y" : 32.850113276000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "STAT_NAME" : "SD FS 13",
+        "THOMPAGE" : "1227-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 552-1765",
+        "STA_NUM" : 13
+      },
+      "geometry" : {
+        "x" : -117.27230073699997,
+        "y" : 32.83247747300004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "STAT_NAME" : "SD Future Navajo FS",
+        "THOMPAGE" : "1249-H6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.09825420499999,
+        "y" : 32.791770926000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "STAT_NAME" : "SD Future Scripps Miramar FS",
+        "THOMPAGE" : "1209-J4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.08453445399999,
+        "y" : 32.905481047000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "STAT_NAME" : "SD Future College Area FS",
+        "THOMPAGE" : "1270-B2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.07603689499996,
+        "y" : 32.772708497000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 86,
+        "STAT_NAME" : "SD Future Liberty Station FS",
+        "THOMPAGE" : "1288-C1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.22530229899996,
+        "y" : 32.72880467300007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "STAT_NAME" : "SD Future FS Stresemann/Governor",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.22360153199998,
+        "y" : 32.849560531000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "STAT_NAME" : "SD Future FS Nobel/Genesee",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.21357521999994,
+        "y" : 32.866779096000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "STAT_NAME" : "SD Future FS USCS Site",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.24116442899998,
+        "y" : 32.869926244000055
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "STAT_NAME" : "SD Future FS Old Mission Bay Hosp",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.21563390099999,
+        "y" : 32.803594179000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "STAT_NAME" : "Vista Fire Station 5",
+        "THOMPAGE" : "1107-H6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.24204181299996,
+        "y" : 33.15522786400004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "STAT_NAME" : "Vista Fire Station 6",
+        "THOMPAGE" : "1087-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.23619562399995,
+        "y" : 33.206110693000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "STAT_NAME" : "San Marcos Fire Station 4",
+        "THOMPAGE" : "1108-H7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Marcos Fire Protection District",
+        "JURIS" : "SM",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760)744-1860",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.17148216599998,
+        "y" : 33.108371968000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "STAT_NAME" : "Escondido Temp Fire Station 1",
+        "THOMPAGE" : "1129-G2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 839-4976",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.09621514899999,
+        "y" : 33.122844298000075
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 95,
+        "STAT_NAME" : "Oceanside Fire Station 7",
+        "THOMPAGE" : "1086-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 966-4790",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -117.34277484999996,
+        "y" : 33.217904424000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "STAT_NAME" : "MCAS Miramar 62",
+        "THOMPAGE" : "1229-G4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCAS MIRAMAR",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 62
+      },
+      "geometry" : {
+        "x" : -117.10669382699996,
+        "y" : 32.860833660000026
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "STAT_NAME" : "MCAS Miramar 61",
+        "THOMPAGE" : "1229-D1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCAS MIRAMAR",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 61
+      },
+      "geometry" : {
+        "x" : -117.13164515699998,
+        "y" : 32.883102848000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "STAT_NAME" : "MCB Camp Pendleton 3",
+        "THOMPAGE" : "409-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.31068171499999,
+        "y" : 33.312099302000036
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "STAT_NAME" : "MCB Camp Pendleton 4",
+        "THOMPAGE" : "409-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.32736835699995,
+        "y" : 33.329675891000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "STAT_NAME" : "MCB Camp Pendleton 1",
+        "THOMPAGE" : "409-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.34688688599999,
+        "y" : 33.299349410000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "STAT_NAME" : "MCB Camp Pendleton 10",
+        "THOMPAGE" : "408-L8",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 10
+      },
+      "geometry" : {
+        "x" : -117.44115651499999,
+        "y" : 33.288893865000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "STAT_NAME" : "MCB Camp Pendleton 6",
+        "THOMPAGE" : "408-L7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.42490456699994,
+        "y" : 33.328485273000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "STAT_NAME" : "MCB Camp Pendleton 2",
+        "THOMPAGE" : "408-L8",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.43006018999995,
+        "y" : 33.259994440000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "STAT_NAME" : "MCB Camp Pendleton 7",
+        "THOMPAGE" : "408-K6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -117.52999169599997,
+        "y" : 33.396594022000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "STAT_NAME" : "MCB Camp Pendleton 5",
+        "THOMPAGE" : "1085-H4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.39408920099999,
+        "y" : 33.221218915000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "STAT_NAME" : "MCB Camp Pendleton 8",
+        "THOMPAGE" : "993-E2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -117.56828673599995,
+        "y" : 33.439543010000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "STAT_NAME" : "MCB Camp Pendleton 28",
+        "THOMPAGE" : "408-L5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 28
+      },
+      "geometry" : {
+        "x" : -117.40327501699994,
+        "y" : 33.455689497000037
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "STAT_NAME" : "MCB Camp Pendleton 9",
+        "THOMPAGE" : "1024-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "MCB CAMP PENDLETON",
+        "JURIS" : "FD",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 9
+      },
+      "geometry" : {
+        "x" : -117.26332716999997,
+        "y" : 33.368751356000075
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 109,
+        "STAT_NAME" : "National City Future FS SiteA",
+        "THOMPAGE" : "1310-B2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "National City Fire Department",
+        "JURIS" : "NC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 336-4278",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -117.09116591999998,
+        "y" : 32.68802004500003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 110,
+        "STAT_NAME" : "National City Future FS SiteB",
+        "THOMPAGE" : "1310-B2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "National City Fire Department",
+        "JURIS" : "NC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 336-4278",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -117.09099004599994,
+        "y" : 32.684370898000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 111,
+        "STAT_NAME" : "SD FS 16",
+        "THOMPAGE" : "1227-J7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 552-1767",
+        "STA_NUM" : 16
+      },
+      "geometry" : {
+        "x" : -117.25035548999995,
+        "y" : 32.839239705000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "STAT_NAME" : "SD FS 27",
+        "THOMPAGE" : "1248-D1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 581-9937",
+        "STA_NUM" : 27
+      },
+      "geometry" : {
+        "x" : -117.20164467899997,
+        "y" : 32.833825878000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "STAT_NAME" : "SD FS 36",
+        "THOMPAGE" : "1248-H2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 573-1378",
+        "STA_NUM" : 36
+      },
+      "geometry" : {
+        "x" : -117.17458802499999,
+        "y" : 32.82223885600007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "STAT_NAME" : "SD FS 28",
+        "THOMPAGE" : "1249-B3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 581-1367",
+        "STA_NUM" : 28
+      },
+      "geometry" : {
+        "x" : -117.15077376299996,
+        "y" : 32.812312428000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "STAT_NAME" : "SD FS 39",
+        "THOMPAGE" : "1249-J3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 573-1381",
+        "STA_NUM" : 39
+      },
+      "geometry" : {
+        "x" : -117.09858801799999,
+        "y" : 32.820572727000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "STAT_NAME" : "Santee Fire Station 5",
+        "THOMPAGE" : "1231-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Santee Fire Department",
+        "JURIS" : "ST",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 258-4119",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.00408479499998,
+        "y" : 32.844653435000055
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "STAT_NAME" : "Santee Fire Station 4",
+        "THOMPAGE" : "1231-E6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Santee Fire Department",
+        "JURIS" : "ST",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 258-4151",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -116.97424130999997,
+        "y" : 32.83997409400007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "STAT_NAME" : "Encinitas Fire Station 5",
+        "THOMPAGE" : "1147-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.26806488099999,
+        "y" : 33.045285078000063
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "STAT_NAME" : "SD FS 46",
+        "THOMPAGE" : "1188-J1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 46
+      },
+      "geometry" : {
+        "x" : -117.16098220299995,
+        "y" : 32.986227516000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "STAT_NAME" : "Poway Fire Station 53",
+        "THOMPAGE" : "1190-C2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Poway Fire Department",
+        "JURIS" : "PW",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 748-6163",
+        "STA_NUM" : 53
+      },
+      "geometry" : {
+        "x" : -117.06326824499996,
+        "y" : 32.97509833600003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "STAT_NAME" : "Rancho Santa Fe Fire Station 2",
+        "THOMPAGE" : "1169-F3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Rancho Santa Fe Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(858) 673-0442",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.12293196499996,
+        "y" : 33.02228322600007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "STAT_NAME" : "Chula Vista Fire Station 3",
+        "THOMPAGE" : "1330-F2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-5905",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.02882561099995,
+        "y" : 32.610082003000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "STAT_NAME" : "Chula Vista Temp Fire Station 8",
+        "THOMPAGE" : "1311-G4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-5905",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -116.96108911799996,
+        "y" : 32.651913337000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 124,
+        "STAT_NAME" : "SD FS 21",
+        "THOMPAGE" : "1247-H6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(858) 581-9939",
+        "STA_NUM" : 21
+      },
+      "geometry" : {
+        "x" : -117.25527236799996,
+        "y" : 32.794859933000055
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "STAT_NAME" : "SD FS 14",
+        "THOMPAGE" : "1269-E5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 531-1582",
+        "STA_NUM" : 14
+      },
+      "geometry" : {
+        "x" : -117.12495096599997,
+        "y" : 32.750518089000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "STAT_NAME" : "SD Lindbergh Field FS",
+        "THOMPAGE" : "1268-G7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.18975182299999,
+        "y" : 32.736379614000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "STAT_NAME" : "Chula Vista Fire Station 2",
+        "THOMPAGE" : "1311-E7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-2680",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.05904422799995,
+        "y" : 32.631601894000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "STAT_NAME" : "Chula Vista Fire Station 4",
+        "THOMPAGE" : "1311-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 421-2473",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.01257417299996,
+        "y" : 32.63921130500006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "STAT_NAME" : "Chula Vista Fire Station 7",
+        "THOMPAGE" : "1331-D1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 422-5905",
+        "STA_NUM" : 7
+      },
+      "geometry" : {
+        "x" : -116.98463795599997,
+        "y" : 32.621252092000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "STAT_NAME" : "SD FS 47",
+        "THOMPAGE" : "1188-F5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 47
+      },
+      "geometry" : {
+        "x" : -117.19152120799998,
+        "y" : 32.955272832000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "STAT_NAME" : "SD Future FS 48",
+        "THOMPAGE" : "1169-F6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 48
+      },
+      "geometry" : {
+        "x" : -117.11060700499996,
+        "y" : 32.99850323000004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "STAT_NAME" : "SD FS 51",
+        "THOMPAGE" : "1290-F4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 527-3800",
+        "STA_NUM" : 51
+      },
+      "geometry" : {
+        "x" : -117.04318029699999,
+        "y" : 32.703410192000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "STAT_NAME" : "Chula Vista Proposed FS EUC",
+        "THOMPAGE" : "1331-G2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 9
+      },
+      "geometry" : {
+        "x" : -116.96128596999995,
+        "y" : 32.615000092000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "STAT_NAME" : "Chula Vista Fire Station 6",
+        "THOMPAGE" : "1311-F3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 656-1523",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -116.97095414499995,
+        "y" : 32.659892239000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "STAT_NAME" : "Chula Vista Fire Station 8",
+        "THOMPAGE" : "1311-J5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 409-1900",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -116.94569249599999,
+        "y" : 32.645808247000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 136,
+        "STAT_NAME" : "Carlsbad Fire Station 5",
+        "THOMPAGE" : "1127-E1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Carlsbad Fire Department",
+        "JURIS" : "CB",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 931-2112",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.26741913999996,
+        "y" : 33.137696864000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 137,
+        "STAT_NAME" : "San Miguel Fire Station 65",
+        "THOMPAGE" : "1271-F7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 670-0500",
+        "STA_NUM" : 65
+      },
+      "geometry" : {
+        "x" : -116.96957167899996,
+        "y" : 32.730117752000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 138,
+        "STAT_NAME" : "North County Fire Station 1",
+        "THOMPAGE" : "1027-G2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 723-2005",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.24821379599996,
+        "y" : 33.383078112000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 139,
+        "STAT_NAME" : "North County Fire - Rainbow Station 1",
+        "THOMPAGE" : "998-J2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 723-2026",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.14725612299998,
+        "y" : 33.414238397000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 140,
+        "STAT_NAME" : "Oceanside Fire Station 3",
+        "THOMPAGE" : "1086-G6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4259",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.33154098499995,
+        "y" : 33.20146122500006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 141,
+        "STAT_NAME" : "Oceanside Fire Station 4",
+        "THOMPAGE" : "1107-C2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4264",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.28832254899999,
+        "y" : 33.180500389000031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 142,
+        "STAT_NAME" : "USFS Oak Grove Fire Station 31",
+        "THOMPAGE" : "409-H5",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 767-9744",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -116.79117405699998,
+        "y" : 33.385774756000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 143,
+        "STAT_NAME" : "USFS Palomar Fire Station 36",
+        "THOMPAGE" : "409-G6",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-3491",
+        "STA_NUM" : 36
+      },
+      "geometry" : {
+        "x" : -116.87181889899995,
+        "y" : 33.359958778000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 144,
+        "STAT_NAME" : "USFS Descanso Fire Station 41",
+        "THOMPAGE" : "1235-J3",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-5032",
+        "STA_NUM" : 41
+      },
+      "geometry" : {
+        "x" : -116.62428132899998,
+        "y" : 32.855563583000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 145,
+        "STAT_NAME" : "USFS Cottonwood Fire Station 44",
+        "THOMPAGE" : "430-A8",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-9835",
+        "STA_NUM" : 44
+      },
+      "geometry" : {
+        "x" : -116.49267875099997,
+        "y" : 32.748736957000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 146,
+        "STAT_NAME" : "USFS Japatul 46",
+        "THOMPAGE" : "429-K7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-3382",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -116.67410066899998,
+        "y" : 32.743683766000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 147,
+        "STAT_NAME" : "USFS Alpine Fire Station 47",
+        "THOMPAGE" : "1234-E6",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-4505",
+        "STA_NUM" : 47
+      },
+      "geometry" : {
+        "x" : -116.74047330199994,
+        "y" : 32.834134628000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 148,
+        "STAT_NAME" : "USFS Henshaw Fire Station 32",
+        "THOMPAGE" : "409-J8",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 782-3472",
+        "STA_NUM" : 32
+      },
+      "geometry" : {
+        "x" : -116.76024242999995,
+        "y" : 33.233209632000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 149,
+        "STAT_NAME" : "USFS Camp Ole 42",
+        "THOMPAGE" : "1218-E5",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-8527",
+        "STA_NUM" : 42
+      },
+      "geometry" : {
+        "x" : -116.42901651099999,
+        "y" : 32.880476283000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 150,
+        "STAT_NAME" : "USFS Goose Valley Fire Station 34",
+        "THOMPAGE" : "1153-A1",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 789-0191",
+        "STA_NUM" : 34
+      },
+      "geometry" : {
+        "x" : -116.84546487699998,
+        "y" : 33.073408748000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 151,
+        "STAT_NAME" : "USFS Cameron Fire Station 43",
+        "THOMPAGE" : "430-B7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-8784",
+        "STA_NUM" : 43
+      },
+      "geometry" : {
+        "x" : -116.46409488399996,
+        "y" : 32.720467338000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 152,
+        "STAT_NAME" : "USFS Glencliff Fire Station 45",
+        "THOMPAGE" : "430-A6",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-8007",
+        "STA_NUM" : 45
+      },
+      "geometry" : {
+        "x" : -116.50207466199998,
+        "y" : 32.802009833000056
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 153,
+        "STAT_NAME" : "USFS Pine Hills 33",
+        "THOMPAGE" : "1175-G1",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 33
+      },
+      "geometry" : {
+        "x" : -116.63570241699995,
+        "y" : 33.016276502000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 154,
+        "STAT_NAME" : "USFS San Vicente 35",
+        "THOMPAGE" : "1173-F4",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "CNF",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 789-0739",
+        "STA_NUM" : 35
+      },
+      "geometry" : {
+        "x" : -116.80021958299994,
+        "y" : 33.000905777000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 155,
+        "STAT_NAME" : "CALFIRE Campo",
+        "THOMPAGE" : "430-A10",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-5516",
+        "STA_NUM" : 40
+      },
+      "geometry" : {
+        "x" : -116.46941771899998,
+        "y" : 32.629292386000031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 156,
+        "STAT_NAME" : "CALFIRE DeLuz",
+        "THOMPAGE" : "409-A5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 728-2422",
+        "STA_NUM" : 16
+      },
+      "geometry" : {
+        "x" : -117.32071446499998,
+        "y" : 33.427856162000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 157,
+        "STAT_NAME" : "CALFIRE Flinn Springs",
+        "THOMPAGE" : "1232-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 443-7121",
+        "STA_NUM" : 21
+      },
+      "geometry" : {
+        "x" : -116.85668866799995,
+        "y" : 32.856969723000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 158,
+        "STAT_NAME" : "CALFIRE Lyons Valley",
+        "THOMPAGE" : "1294-B1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 468-3435",
+        "STA_NUM" : 32
+      },
+      "geometry" : {
+        "x" : -116.76485286399998,
+        "y" : 32.724377430000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 159,
+        "STAT_NAME" : "CALFIRE Miller",
+        "THOMPAGE" : "1048-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 728-8532",
+        "STA_NUM" : 15
+      },
+      "geometry" : {
+        "x" : -117.13637584799994,
+        "y" : 33.299310648000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 160,
+        "STAT_NAME" : "CALFIRE Potrero",
+        "THOMPAGE" : "429-L10",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-5544",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -116.60887733899995,
+        "y" : 32.605283410000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 161,
+        "STAT_NAME" : "CALFIRE Mount Woodson",
+        "THOMPAGE" : "1171-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 789-1150",
+        "STA_NUM" : 86
+      },
+      "geometry" : {
+        "x" : -116.95628667699998,
+        "y" : 33.008272368000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 162,
+        "STAT_NAME" : "CALFIRE Red Mountain",
+        "THOMPAGE" : "998-D7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 728-1323",
+        "STA_NUM" : 10
+      },
+      "geometry" : {
+        "x" : -117.18417700499998,
+        "y" : 33.390698155000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 163,
+        "STAT_NAME" : "CALFIRE Rincon",
+        "THOMPAGE" : "1051-D7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-3243",
+        "STA_NUM" : 70
+      },
+      "geometry" : {
+        "x" : -116.96181830899997,
+        "y" : 33.288377316000037
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 164,
+        "STAT_NAME" : "CALFIRE Valley Center (old Cole Grade location)",
+        "THOMPAGE" : "1090-F1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 749-1702",
+        "STA_NUM" : 71
+      },
+      "geometry" : {
+        "x" : -117.02331609899994,
+        "y" : 33.235602603000075
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 165,
+        "STAT_NAME" : "CALFIRE White Star",
+        "THOMPAGE" : "430-C9",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 766-4533",
+        "STA_NUM" : 41
+      },
+      "geometry" : {
+        "x" : -116.31812225999994,
+        "y" : 32.64747231900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 166,
+        "STAT_NAME" : "CALFIRE Monte Vista (HQ)",
+        "THOMPAGE" : "1272-B5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 590-3100",
+        "STA_NUM" : 20
+      },
+      "geometry" : {
+        "x" : -116.92570033399994,
+        "y" : 32.74809463400004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 167,
+        "STAT_NAME" : "CALFIRE Dulzura",
+        "THOMPAGE" : "429-J9",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 468-3391",
+        "STA_NUM" : 30
+      },
+      "geometry" : {
+        "x" : -116.77527661299996,
+        "y" : 32.642916619000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 168,
+        "STAT_NAME" : "CALFIRE Warner Springs",
+        "THOMPAGE" : "409-K7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 782-3560",
+        "STA_NUM" : 52
+      },
+      "geometry" : {
+        "x" : -116.64455441299998,
+        "y" : 33.273365586000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 169,
+        "STAT_NAME" : "CALFIRE Witch Creek",
+        "THOMPAGE" : "429-J1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 789-1448",
+        "STA_NUM" : 87
+      },
+      "geometry" : {
+        "x" : -116.74196352999996,
+        "y" : 33.069092386000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 170,
+        "STAT_NAME" : "CALFIRE Del Dios",
+        "THOMPAGE" : "1129-J7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 753-9478",
+        "STA_NUM" : 77
+      },
+      "geometry" : {
+        "x" : -117.08534495199996,
+        "y" : 33.090212332000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 171,
+        "STAT_NAME" : "Valley Center Fire Station 72",
+        "THOMPAGE" : "1090-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Valley Center FPD",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 751-7600",
+        "STA_NUM" : 72
+      },
+      "geometry" : {
+        "x" : -117.03827449399995,
+        "y" : 33.221742797000047
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 172,
+        "STAT_NAME" : "Ramona Municipal Water District Fire Station 81",
+        "THOMPAGE" : "1173-F4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Ramona Municipal Water District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 788-2229",
+        "STA_NUM" : 81
+      },
+      "geometry" : {
+        "x" : -116.80004697799995,
+        "y" : 33.000800949000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 173,
+        "STAT_NAME" : "Rincon Reservation Fire Station",
+        "THOMPAGE" : "1071-D5",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 297-2300",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.95740118899994,
+        "y" : 33.256382957000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 174,
+        "STAT_NAME" : "San Diego Rural Lake Morena",
+        "THOMPAGE" : "1296-F5",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-5216",
+        "STA_NUM" : 42
+      },
+      "geometry" : {
+        "x" : -116.50747398699997,
+        "y" : 32.679450878000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 175,
+        "STAT_NAME" : "De Luz Volunteer Fire Station",
+        "THOMPAGE" : "997-B2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "De Luz VFC",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "none",
+        "STA_NUM" : 18
+      },
+      "geometry" : {
+        "x" : -117.30909393799999,
+        "y" : 33.43432501500007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 176,
+        "STAT_NAME" : "Viejas Reservation Fire Station",
+        "THOMPAGE" : "1234-J3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Viejas Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-7772",
+        "STA_NUM" : 25
+      },
+      "geometry" : {
+        "x" : -116.70037672899997,
+        "y" : 32.854124622000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 177,
+        "STAT_NAME" : "San Pasqual Reservation Fire Station",
+        "THOMPAGE" : "1091-C4",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Pasqual Reservation Fire",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "none",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.97375249099997,
+        "y" : 33.213415775000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 178,
+        "STAT_NAME" : "Federal FS12",
+        "THOMPAGE" : "1287-J5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Federal Fire Department",
+        "JURIS" : "FD",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 12
+      },
+      "geometry" : {
+        "x" : -117.24705592099997,
+        "y" : 32.69943108800004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 179,
+        "STAT_NAME" : "Federal FS2",
+        "THOMPAGE" : "1288-E3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Federal Fire Department",
+        "JURIS" : "FD",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.20382245199994,
+        "y" : 32.713372550000031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 180,
+        "STAT_NAME" : "Chula Vista Fire Station 9",
+        "THOMPAGE" : "1330-F3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Chula Vista Fire Department",
+        "JURIS" : "CV",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 420-2369",
+        "STA_NUM" : 9
+      },
+      "geometry" : {
+        "x" : -117.04449157599998,
+        "y" : 32.614764109000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 181,
+        "STAT_NAME" : "Escondido Fire Station 3",
+        "THOMPAGE" : "1109-F6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.10655639599997,
+        "y" : 33.149386642000024
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 182,
+        "STAT_NAME" : "Escondido Fire Station 6",
+        "THOMPAGE" : "1129-G5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Escondido Fire Department",
+        "JURIS" : "ES",
+        "DISPATCH" : "S",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.10215760399996,
+        "y" : 33.105023356000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 183,
+        "STAT_NAME" : "SD Future University City FS Judical/Nobel",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.19770860499995,
+        "y" : 32.867280662000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 184,
+        "STAT_NAME" : "SD Future FS2",
+        "THOMPAGE" : "1288-J2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.17092813799997,
+        "y" : 32.721811445000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 185,
+        "STAT_NAME" : "SD Future East Village FS",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.15215207999995,
+        "y" : 32.715829097000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 186,
+        "STAT_NAME" : "SD Future FS Home Av (N109)",
+        "THOMPAGE" : "1289-E1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.09970894799994,
+        "y" : 32.728530316000047
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 187,
+        "STAT_NAME" : "SD Future Kensington FS",
+        "THOMPAGE" : "1269-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.10447283599996,
+        "y" : 32.763024668000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 188,
+        "STAT_NAME" : "SD Future Rancho Encantada FS",
+        "THOMPAGE" : "1210-D2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.05188262299998,
+        "y" : 32.921775656000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 189,
+        "STAT_NAME" : "SD Future San Pasqual FS",
+        "THOMPAGE" : "1130-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.00725286099998,
+        "y" : 33.094799517000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 190,
+        "STAT_NAME" : "SD Future Torrey Hills FS",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.22382771999997,
+        "y" : 32.918893681000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 191,
+        "STAT_NAME" : "SD Future Mira Mesa FS",
+        "THOMPAGE" : "1228-H2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.17305890999995,
+        "y" : 32.878470760000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 192,
+        "STAT_NAME" : "SD Future Linda Vista FS",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.17128524199995,
+        "y" : 32.798228061000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 193,
+        "STAT_NAME" : "SD Future Quarry Falls FS",
+        "THOMPAGE" : "1269-C1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.14824120699996,
+        "y" : 32.776990776000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 194,
+        "STAT_NAME" : "SD Future Serra Mesa FS",
+        "THOMPAGE" : "1249-C7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.14506929299995,
+        "y" : 32.790110712000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 195,
+        "STAT_NAME" : "SD Air Ops Base",
+        "THOMPAGE" : "1249-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.13798258599996,
+        "y" : 32.813231027000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 196,
+        "STAT_NAME" : "SD Proposed Air Ops Base",
+        "THOMPAGE" : "n/a",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.14833256299994,
+        "y" : 32.816812651000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 197,
+        "STAT_NAME" : "SD Future FS 28",
+        "THOMPAGE" : "1249-C1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "P",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 28
+      },
+      "geometry" : {
+        "x" : -117.14145047899996,
+        "y" : 32.829161637000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 198,
+        "STAT_NAME" : "SD Future FS 39",
+        "THOMPAGE" : "1249-H1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 39
+      },
+      "geometry" : {
+        "x" : -117.10381021899997,
+        "y" : 32.829028723000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 199,
+        "STAT_NAME" : "CALFIRE Ramona Air Attack Base",
+        "THOMPAGE" : "1152-B6",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE/USFS",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760)789-1370",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.91709880699995,
+        "y" : 33.041593163000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 200,
+        "STAT_NAME" : "CALFIRE McCain Valley Camp",
+        "THOMPAGE" : "1300-G4",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "N/A",
+        "MISS_EMR" : "N/A",
+        "PHONE_NUM" : "(619)766-4412",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.26696341399997,
+        "y" : 32.684385814000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 201,
+        "STAT_NAME" : "CALFIRE Puerta La Cruz Camp",
+        "THOMPAGE" : "409-J7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "N/A",
+        "MISS_EMR" : "N/A",
+        "PHONE_NUM" : "(760)782-3559",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.68362138999998,
+        "y" : 33.323987057000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 202,
+        "STAT_NAME" : "CALFIRE Rainbow Camp",
+        "THOMPAGE" : "409-D5",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "N/A",
+        "MISS_EMR" : "N/A",
+        "PHONE_NUM" : "(760)728-7492",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.11987885699995,
+        "y" : 33.429569512000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 203,
+        "STAT_NAME" : "San Miguel Fire Station 61",
+        "THOMPAGE" : "1271-D2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 464-1836",
+        "STA_NUM" : 61
+      },
+      "geometry" : {
+        "x" : -116.98006074299997,
+        "y" : 32.769860705000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 204,
+        "STAT_NAME" : "San Miguel Fire Station 64",
+        "THOMPAGE" : "1271-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 463-6947",
+        "STA_NUM" : 64
+      },
+      "geometry" : {
+        "x" : -116.99857925699996,
+        "y" : 32.741689294000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 205,
+        "STAT_NAME" : "SD FS 55",
+        "THOMPAGE" : "1290-C3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 379-9578",
+        "STA_NUM" : 55
+      },
+      "geometry" : {
+        "x" : -117.06641680599995,
+        "y" : 32.709031787000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 206,
+        "STAT_NAME" : "SD FS 56",
+        "THOMPAGE" : "1228-C5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 922-0547",
+        "STA_NUM" : 56
+      },
+      "geometry" : {
+        "x" : -117.22038946999999,
+        "y" : 32.851139836000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 207,
+        "STAT_NAME" : "San Diego Rural Otay Mesa / Bailey",
+        "THOMPAGE" : "1332-C5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 661-2820",
+        "STA_NUM" : 38
+      },
+      "geometry" : {
+        "x" : -116.91729441099994,
+        "y" : 32.589378206000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 208,
+        "STAT_NAME" : "Fish & Wildlife Service Daley Ranch Fire Station",
+        "THOMPAGE" : "1293-A7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "Fish and Wildlife Service",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.86808359899999,
+        "y" : 32.705435940000029
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 209,
+        "STAT_NAME" : "Deer Springs Fire Station 3",
+        "THOMPAGE" : "1089-E4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Deer Springs Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 751-0820",
+        "STA_NUM" : 13
+      },
+      "geometry" : {
+        "x" : -117.11004986499995,
+        "y" : 33.215949760000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 210,
+        "STAT_NAME" : "Mesa Grande Reservation Fire Station",
+        "THOMPAGE" : "409-H9",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Mesa Grande Indian Reservation",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 62
+      },
+      "geometry" : {
+        "x" : -116.77884273299998,
+        "y" : 33.18779062200008
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 211,
+        "STAT_NAME" : "Future CALFIRE Boulevard",
+        "THOMPAGE" : " ",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.29114555999996,
+        "y" : 32.672096511000063
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 212,
+        "STAT_NAME" : "Encinitas Fire Station 6",
+        "THOMPAGE" : "1148-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Encinitas Fire Department",
+        "JURIS" : "EN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.23286441799996,
+        "y" : 33.051877471000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 213,
+        "STAT_NAME" : "Oceanside Fire Station 5",
+        "THOMPAGE" : "1067-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4269",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.30116652299995,
+        "y" : 33.248731457000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 214,
+        "STAT_NAME" : "Oceanside Fire Station 6",
+        "THOMPAGE" : "1087-D1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4274",
+        "STA_NUM" : 6
+      },
+      "geometry" : {
+        "x" : -117.27649523399998,
+        "y" : 33.241279803000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 215,
+        "STAT_NAME" : "Vista Fire Station 3",
+        "THOMPAGE" : "1088-A2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 726-3660",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.22646500599996,
+        "y" : 33.229533756000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 216,
+        "STAT_NAME" : "Rancho Santa Fe Fire Station 3",
+        "THOMPAGE" : "1168-E6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Rancho Santa Fe Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 756-4730",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.19467220099995,
+        "y" : 32.997880038000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 217,
+        "STAT_NAME" : "North County Reservation Fire - La Jolla Station",
+        "THOMPAGE" : "409-G7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "North County Reservation Fire District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-1624",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.90797708899998,
+        "y" : 33.303549787000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 218,
+        "STAT_NAME" : "CALFIRE Gillespie Helitack Base",
+        "THOMPAGE" : "1251-E2",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 258-1397",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.97364735099995,
+        "y" : 32.818826118000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 219,
+        "STAT_NAME" : "Fallbrook Helitack Base",
+        "THOMPAGE" : "1027-F6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "County of San Diego",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 723-6050",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.25006083799997,
+        "y" : 33.352114958000072
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 220,
+        "STAT_NAME" : "Del Dios Volunteer Fire Station (closed)",
+        "THOMPAGE" : "1149-E2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "Rancho Santa Fe Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "n/a",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.11824195099996,
+        "y" : 33.078742126000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 221,
+        "STAT_NAME" : "CALFIRE Valley Center",
+        "THOMPAGE" : "1090-H1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 749-1702",
+        "STA_NUM" : 71
+      },
+      "geometry" : {
+        "x" : -117.00845423699997,
+        "y" : 33.236290240000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 222,
+        "STAT_NAME" : "North County Fire Station 2",
+        "THOMPAGE" : "1028-B7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 723-2022",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.21321338799999,
+        "y" : 33.344936849000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 223,
+        "STAT_NAME" : "North County Fire Station 4",
+        "THOMPAGE" : "1048-H1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 723-2024",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.16070765699999,
+        "y" : 33.340935565000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 224,
+        "STAT_NAME" : "North County Fire Station 3",
+        "THOMPAGE" : "1047-B4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 723-2023",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.24988430999997,
+        "y" : 33.316564724000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 225,
+        "STAT_NAME" : "North County Fire Station 5",
+        "THOMPAGE" : "1068-A2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 723-2025",
+        "STA_NUM" : 5
+      },
+      "geometry" : {
+        "x" : -117.21922692999999,
+        "y" : 33.284206074000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 226,
+        "STAT_NAME" : "Vista Fire Station 1",
+        "THOMPAGE" : "1087-F7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 726-2143",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.25521165799995,
+        "y" : 33.197249801000055
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 227,
+        "STAT_NAME" : "Vista Fire Station 2",
+        "THOMPAGE" : "1088-B7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 726-2143",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.21365733599998,
+        "y" : 33.191182021000031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 228,
+        "STAT_NAME" : "Vista Fire Station 4",
+        "THOMPAGE" : "1108-B4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Vista Fire Protection District",
+        "JURIS" : "VS",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 727-3660",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.21794552999995,
+        "y" : 33.166972534000024
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 229,
+        "STAT_NAME" : "San Marcos Fire Station 1",
+        "THOMPAGE" : "1108-H7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Marcos Fire Protection District",
+        "JURIS" : "SM",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 744-1860",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.16439273599997,
+        "y" : 33.143577912000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 230,
+        "STAT_NAME" : "San Marcos Fire Station 2",
+        "THOMPAGE" : "1128-B3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Marcos Fire Protection District",
+        "JURIS" : "SM",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 744-4594",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.21820397199997,
+        "y" : 33.123033402000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 231,
+        "STAT_NAME" : "San Marcos Fire Station 3",
+        "THOMPAGE" : "1109-B7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Marcos Fire Protection District",
+        "JURIS" : "SM",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 591-0233",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -117.13600803699995,
+        "y" : 33.144137971000077
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 232,
+        "STAT_NAME" : "Valley Center Fire Station 73",
+        "THOMPAGE" : "1091-C2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Valley Center FPD",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 751-7605",
+        "STA_NUM" : 73
+      },
+      "geometry" : {
+        "x" : -116.97527669299996,
+        "y" : 33.226023342000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 233,
+        "STAT_NAME" : "Ranchita Volunteer Fire Station 58",
+        "THOMPAGE" : "409-L9",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Ranchita Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 782-3467",
+        "STA_NUM" : 58
+      },
+      "geometry" : {
+        "x" : -116.52590868399994,
+        "y" : 33.21070463500007
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 234,
+        "STAT_NAME" : "Lakeside Fire Station 2",
+        "THOMPAGE" : "1211-H7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Lakeside Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 390-2362",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -116.92804206799997,
+        "y" : 32.866729292000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 235,
+        "STAT_NAME" : "Lakeside Fire Station 1",
+        "THOMPAGE" : "1231-J4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Lakeside Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 390-2360",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -116.93669878199995,
+        "y" : 32.853715823000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 236,
+        "STAT_NAME" : "Lakeside Fire Station 3",
+        "THOMPAGE" : "1232-F5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Lakeside Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 390-2366",
+        "STA_NUM" : 3
+      },
+      "geometry" : {
+        "x" : -116.88442165299995,
+        "y" : 32.844181504000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 237,
+        "STAT_NAME" : "Lakeside Fire Station 26",
+        "THOMPAGE" : "1233-B3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Lakeside Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 390-2364",
+        "STA_NUM" : 26
+      },
+      "geometry" : {
+        "x" : -116.84423895599997,
+        "y" : 32.861148003000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 238,
+        "STAT_NAME" : "San Miguel Fire Station 23",
+        "THOMPAGE" : "1252-C6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 442-6723",
+        "STA_NUM" : 23
+      },
+      "geometry" : {
+        "x" : -116.90481035499994,
+        "y" : 32.787884887000075
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 239,
+        "STAT_NAME" : "Warner Springs Volunteer Fire Station",
+        "THOMPAGE" : "409-K7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "Warner Springs Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : " ",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 782-3560",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.63475001199998,
+        "y" : 33.283306045000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 240,
+        "STAT_NAME" : "Oceanside Fire Station 1",
+        "THOMPAGE" : "1086-A7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 966-4151",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.37828428699999,
+        "y" : 33.198155408000048
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 241,
+        "STAT_NAME" : "Oceanside Fire Station 2",
+        "THOMPAGE" : "1106-C3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Oceanside Fire Department",
+        "JURIS" : "OC",
+        "DISPATCH" : "S",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(760) 435-4254",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.36025981399996,
+        "y" : 33.176664856000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 242,
+        "STAT_NAME" : "San Diego Rural Dehesa",
+        "THOMPAGE" : "1253-C5",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-3445",
+        "STA_NUM" : 25
+      },
+      "geometry" : {
+        "x" : -116.83314135399996,
+        "y" : 32.790724978000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 243,
+        "STAT_NAME" : "Sycuan  Reservation Fire Station",
+        "THOMPAGE" : "1253-C6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Sycuan Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 445-7138",
+        "STA_NUM" : 63
+      },
+      "geometry" : {
+        "x" : -116.83636442099998,
+        "y" : 32.784431224000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 244,
+        "STAT_NAME" : "Pine Valley Fire Station",
+        "THOMPAGE" : "1237-B7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Pine Valley Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-8445",
+        "STA_NUM" : 44
+      },
+      "geometry" : {
+        "x" : -116.52997174499995,
+        "y" : 32.822950974000037
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 245,
+        "STAT_NAME" : "Barona Reservation Fire Station",
+        "THOMPAGE" : "1192-G7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Barona Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 390-2794",
+        "STA_NUM" : 64
+      },
+      "geometry" : {
+        "x" : -116.85415636899995,
+        "y" : 32.94066612000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 246,
+        "STAT_NAME" : "Boulevard Volunteer Fire Station",
+        "THOMPAGE" : "430-C8",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Boulevard Fire and Rescue",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 766-4633",
+        "STA_NUM" : 47
+      },
+      "geometry" : {
+        "x" : -116.28946755199996,
+        "y" : 32.669768902000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 247,
+        "STAT_NAME" : "Ramona Municipal Water District Fire Station 80",
+        "THOMPAGE" : "1152-G6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Ramona Municipal Water District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 788-2222",
+        "STA_NUM" : 80
+      },
+      "geometry" : {
+        "x" : -116.86502836699998,
+        "y" : 33.036839007000026
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 248,
+        "STAT_NAME" : "Ramona Municipal Water District Fire Station 82",
+        "THOMPAGE" : "1172-C7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Ramona Municipal Water District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 789-0107",
+        "STA_NUM" : 82
+      },
+      "geometry" : {
+        "x" : -116.90802246399994,
+        "y" : 33.01159057600006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 249,
+        "STAT_NAME" : "Deer Springs Fire Station 1",
+        "THOMPAGE" : "1068-J6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Deer Springs Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 749-8001",
+        "STA_NUM" : 11
+      },
+      "geometry" : {
+        "x" : -117.15376072199996,
+        "y" : 33.254688698000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 250,
+        "STAT_NAME" : "Deer Springs Fire Station 2",
+        "THOMPAGE" : "1089-C7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Deer Springs Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 741-5512",
+        "STA_NUM" : 12
+      },
+      "geometry" : {
+        "x" : -117.12609508499997,
+        "y" : 33.195361498000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 251,
+        "STAT_NAME" : "Campo Volunteer Fire Station",
+        "THOMPAGE" : "430-B10",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Campo Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-5310",
+        "STA_NUM" : 46
+      },
+      "geometry" : {
+        "x" : -116.47176425399999,
+        "y" : 32.60629553900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 252,
+        "STAT_NAME" : "Campo Reservation Fire Station",
+        "THOMPAGE" : "1298-E2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Campo Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-2371",
+        "STA_NUM" : 65
+      },
+      "geometry" : {
+        "x" : -116.36527453099995,
+        "y" : 32.649306326000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 253,
+        "STAT_NAME" : "Lawson Valley",
+        "THOMPAGE" : "1274-A2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 669-6580",
+        "STA_NUM" : 33
+      },
+      "geometry" : {
+        "x" : -116.77065030899996,
+        "y" : 32.755935557000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 254,
+        "STAT_NAME" : "San Diego Rural Lee Valley",
+        "THOMPAGE" : "1292-H3",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 669-6580",
+        "STA_NUM" : 34
+      },
+      "geometry" : {
+        "x" : -116.81088948099995,
+        "y" : 32.72231221100003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 255,
+        "STAT_NAME" : "San Diego Rural Donovan",
+        "THOMPAGE" : "1332-A6",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 661-6357",
+        "STA_NUM" : 26
+      },
+      "geometry" : {
+        "x" : -116.93095695699998,
+        "y" : 32.580300429000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 256,
+        "STAT_NAME" : "San Diego Rural Dulzura",
+        "THOMPAGE" : "1294-C7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 468-3654",
+        "STA_NUM" : 35
+      },
+      "geometry" : {
+        "x" : -116.76684099699997,
+        "y" : 32.618776734000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 257,
+        "STAT_NAME" : "San Diego Rural Tecate",
+        "THOMPAGE" : "429-L10",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 478-9005",
+        "STA_NUM" : 38
+      },
+      "geometry" : {
+        "x" : -116.62959190899994,
+        "y" : 32.577717945000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 258,
+        "STAT_NAME" : "San Diego Rural Potrero",
+        "THOMPAGE" : "430-C9",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 766-4535",
+        "STA_NUM" : 39
+      },
+      "geometry" : {
+        "x" : -116.62062688299994,
+        "y" : 32.607187126000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 259,
+        "STAT_NAME" : "San Diego Rural Deerhorn",
+        "THOMPAGE" : "1294-E6",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 468-3030",
+        "STA_NUM" : 37
+      },
+      "geometry" : {
+        "x" : -116.75352146499995,
+        "y" : 32.682450220000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 260,
+        "STAT_NAME" : "San Diego Rural Harbison Canyon",
+        "THOMPAGE" : "1251-C1",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-3445",
+        "STA_NUM" : 24
+      },
+      "geometry" : {
+        "x" : -116.83182120199996,
+        "y" : 32.818603089000078
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 261,
+        "STAT_NAME" : "San Diego Rural Descanso",
+        "THOMPAGE" : "1236-B1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-4731",
+        "STA_NUM" : 45
+      },
+      "geometry" : {
+        "x" : -116.61629778599996,
+        "y" : 32.86160368000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 262,
+        "STAT_NAME" : "San Pasqual Volunteer Fire Station",
+        "THOMPAGE" : "1131-F7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Pasqual Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 480-9924",
+        "STA_NUM" : 84
+      },
+      "geometry" : {
+        "x" : -116.95098803299999,
+        "y" : 33.086346746000061
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 263,
+        "STAT_NAME" : "Intermountain Volunteer Fire Station",
+        "THOMPAGE" : "1153-J1",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Intermountain Volunteer Fire & Rescue",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 787-5960",
+        "STA_NUM" : 85
+      },
+      "geometry" : {
+        "x" : -116.76864476299994,
+        "y" : 33.073319500000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 264,
+        "STAT_NAME" : "La Jolla Reservation Fire Station",
+        "THOMPAGE" : "409-G7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Reservation Fire District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-1624",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.90797708899998,
+        "y" : 33.303549787000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 265,
+        "STAT_NAME" : "Palomar Mountain Volunteer Fire Station",
+        "THOMPAGE" : "409-G3",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Palomar Mountain Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-3701",
+        "STA_NUM" : 79
+      },
+      "geometry" : {
+        "x" : -116.86258368499995,
+        "y" : 33.312515538000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 266,
+        "STAT_NAME" : "Sunshine Summit Volunteer Fire Department",
+        "THOMPAGE" : "409-J6",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Sunshine Summit Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 782-9113",
+        "STA_NUM" : 59
+      },
+      "geometry" : {
+        "x" : -116.73929576399996,
+        "y" : 33.352452239000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 267,
+        "STAT_NAME" : "Pala Reservation Fire Station",
+        "THOMPAGE" : "1029-H4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Pala Reservation Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 742-1632",
+        "STA_NUM" : 66
+      },
+      "geometry" : {
+        "x" : -117.07590050399995,
+        "y" : 33.36551877200003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 268,
+        "STAT_NAME" : "SD Future Encanto FS",
+        "THOMPAGE" : "1290-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "F",
+        "DIST_NAME" : "San Diego Fire Department",
+        "JURIS" : "SD",
+        "DISPATCH" : "A",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -117.05764588699998,
+        "y" : 32.715443738000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 269,
+        "STAT_NAME" : "CALFIRE La Cima Camp",
+        "THOMPAGE" : "1177-B7",
+        "STAT_TYPE" : "Seasonal",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "N/A",
+        "MISS_EMR" : "N/A",
+        "PHONE_NUM" : "(760)765-0140",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.53690667999996,
+        "y" : 32.938840536000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 270,
+        "STAT_NAME" : "San Diego Rural Jamul",
+        "THOMPAGE" : "1292-H3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 669-6580",
+        "STA_NUM" : 36
+      },
+      "geometry" : {
+        "x" : -116.86867033299995,
+        "y" : 32.705176833000053
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 271,
+        "STAT_NAME" : "Santa Ysabel Reservation Fire Station",
+        "THOMPAGE" : "409-K10",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Reservation Fire District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 765-0845",
+        "STA_NUM" : 61
+      },
+      "geometry" : {
+        "x" : -116.67129133899999,
+        "y" : 33.155592329000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 272,
+        "STAT_NAME" : "Ocotillo Wells Volunteer Fire Station",
+        "THOMPAGE" : "410-F10",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Ocotillo Wells Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 767-7433",
+        "STA_NUM" : 89
+      },
+      "geometry" : {
+        "x" : -116.13975218699994,
+        "y" : 33.143547597000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 273,
+        "STAT_NAME" : "Julian-Cuyamaca Volunteer Fire Station 71",
+        "THOMPAGE" : "1136-A6",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Julian-Cuyamaca Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 765-1510",
+        "STA_NUM" : 71
+      },
+      "geometry" : {
+        "x" : -116.60404843999999,
+        "y" : 33.080415174000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 274,
+        "STAT_NAME" : "Julian-Cuyamaca Volunteer Fire Station 74",
+        "THOMPAGE" : "1156-D4",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Julian-Cuyamaca Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 765-0418",
+        "STA_NUM" : 74
+      },
+      "geometry" : {
+        "x" : -116.58584007199994,
+        "y" : 32.992366521000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 275,
+        "STAT_NAME" : "Shelter Valley Volunteer Fire Station",
+        "THOMPAGE" : "1138-C6",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Shelter Valley Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 765-1112",
+        "STA_NUM" : 98
+      },
+      "geometry" : {
+        "x" : -116.43822446399997,
+        "y" : 33.077304322000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 276,
+        "STAT_NAME" : "Mount Laguna Volunteer Fire Station",
+        "THOMPAGE" : "1218-E7",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Mount Laguna Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 473-8281",
+        "STA_NUM" : 83
+      },
+      "geometry" : {
+        "x" : -116.42248522599999,
+        "y" : 32.85758508400005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 277,
+        "STAT_NAME" : "San Miguel Fire Station 66",
+        "THOMPAGE" : "1291-A3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 589-1464",
+        "STA_NUM" : 66
+      },
+      "geometry" : {
+        "x" : -117.00695451799999,
+        "y" : 32.709738984000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 278,
+        "STAT_NAME" : "National City Fire Station 31",
+        "THOMPAGE" : "1310-B2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "National City Fire Department",
+        "JURIS" : "NC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(619) 336-4278",
+        "STA_NUM" : 31
+      },
+      "geometry" : {
+        "x" : -117.07673579799996,
+        "y" : 32.66927471200006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 279,
+        "STAT_NAME" : "Alpine Fire Station",
+        "THOMPAGE" : "1234-A5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Alpine Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 445-2635",
+        "STA_NUM" : 17
+      },
+      "geometry" : {
+        "x" : -116.77726786799997,
+        "y" : 32.835991284000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 280,
+        "STAT_NAME" : "Bonita-Sunnyside Fire Station 2",
+        "THOMPAGE" : "1310-H2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Bonita-Sunnyside Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 479-2346",
+        "STA_NUM" : 2
+      },
+      "geometry" : {
+        "x" : -117.02315766199996,
+        "y" : 32.66557025000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 281,
+        "STAT_NAME" : "Borrego Springs Fire Station",
+        "THOMPAGE" : "1078-J1",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Borrego Springs Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 767-5436",
+        "STA_NUM" : 91
+      },
+      "geometry" : {
+        "x" : -116.37193010599998,
+        "y" : 33.261620748000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 282,
+        "STAT_NAME" : "San Miguel Fire Station 22",
+        "THOMPAGE" : "1272-A5",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 670-8329",
+        "STA_NUM" : 22
+      },
+      "geometry" : {
+        "x" : -116.92889180399999,
+        "y" : 32.748246429000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 283,
+        "STAT_NAME" : "El Cajon Fire Station 8",
+        "THOMPAGE" : "1252-A4",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "El Cajon Fire Department",
+        "JURIS" : "EC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 441-1621",
+        "STA_NUM" : 8
+      },
+      "geometry" : {
+        "x" : -116.92867580999996,
+        "y" : 32.800394680000068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 284,
+        "STAT_NAME" : "El Cajon Fire Station 9",
+        "THOMPAGE" : "1251-E3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "El Cajon Fire Department",
+        "JURIS" : "EC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : " ",
+        "PHONE_NUM" : "(619) 441-1211",
+        "STA_NUM" : 9
+      },
+      "geometry" : {
+        "x" : -116.97536085999997,
+        "y" : 32.81370565900005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 285,
+        "STAT_NAME" : "San Miguel Fire Station 28",
+        "THOMPAGE" : "1252-J3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "BLS",
+        "PHONE_NUM" : "(619) 579-6034",
+        "STA_NUM" : 28
+      },
+      "geometry" : {
+        "x" : -116.86394417499997,
+        "y" : 32.807067190000055
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 286,
+        "STAT_NAME" : "San Miguel Fire Station 69",
+        "THOMPAGE" : "1251-J3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Miguel Fire Protection District",
+        "JURIS" : "EC",
+        "DISPATCH" : "C",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 588-8115",
+        "STA_NUM" : 69
+      },
+      "geometry" : {
+        "x" : -116.93725505499998,
+        "y" : 32.808531158000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 287,
+        "STAT_NAME" : "Elfin Forest / Harmony Grove Volunteer Fire Station",
+        "THOMPAGE" : "1148-G2",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Elfin Forest-Harmony Grove Volunteer Fire Department",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 744-2186",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.17565424299994,
+        "y" : 33.079230546000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 288,
+        "STAT_NAME" : "Rancho Santa Fe Fire Station 1",
+        "THOMPAGE" : "1168-D3",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Rancho Santa Fe Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 750-6011",
+        "STA_NUM" : 1
+      },
+      "geometry" : {
+        "x" : -117.20724047499999,
+        "y" : 33.019826489000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 289,
+        "STAT_NAME" : "Pauma Reservation Fire Station",
+        "THOMPAGE" : "1051-A1",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "North County Reservation Fire District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 742-1488",
+        "STA_NUM" : 0
+      },
+      "geometry" : {
+        "x" : -116.98623713399996,
+        "y" : 33.332835232000036
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 290,
+        "STAT_NAME" : "CALFIRE Cuyamaca",
+        "THOMPAGE" : "1216-E2",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 765-0085",
+        "STA_NUM" : 51
+      },
+      "geometry" : {
+        "x" : -116.58568418299996,
+        "y" : 32.993066360000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 291,
+        "STAT_NAME" : "CALFIRE Julian",
+        "THOMPAGE" : "1136-C7",
+        "STAT_TYPE" : "Full-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "CALFIRE",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(760) 765-0511",
+        "STA_NUM" : 50
+      },
+      "geometry" : {
+        "x" : -116.59269613799995,
+        "y" : 33.076165566000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 292,
+        "STAT_NAME" : "Rancho Santa Fe Fire Station 4",
+        "THOMPAGE" : "1149-E1",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "Rancho Santa Fe Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "B",
+        "MISS_EMR" : "ALS",
+        "PHONE_NUM" : "(760) 741-7766",
+        "STA_NUM" : 4
+      },
+      "geometry" : {
+        "x" : -117.15967348699996,
+        "y" : 33.040635621000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 293,
+        "STAT_NAME" : "San Diego Rural Fire Station 16",
+        "THOMPAGE" : "429-K10",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "N",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : " ",
+        "STA_NUM" : 16
+      },
+      "geometry" : {
+        "x" : -116.69199757799998,
+        "y" : 32.623235910000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 294,
+        "STAT_NAME" : "San Diego Rural Jacumba Volunteer Fire Station",
+        "THOMPAGE" : "1300-G5",
+        "STAT_TYPE" : "Part-Time",
+        "SEED" : "Y",
+        "DIST_NAME" : "San Diego Rural Fire Protection District",
+        "JURIS" : "CN",
+        "DISPATCH" : "E",
+        "MISS_EMR" : "EMT",
+        "PHONE_NUM" : "(619) 766-4535",
+        "STA_NUM" : 43
+      },
+      "geometry" : {
+        "x" : -116.19216687199997,
+        "y" : 32.619451748000074
+      }
+    }
+  ]
+}
